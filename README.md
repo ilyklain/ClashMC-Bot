@@ -19,7 +19,7 @@ To run the bot locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/clashmc-bot.git
+   git clone https://github.com/ilyklain/clashmc-bot.git
    cd clashmc-bot
    ```
 
@@ -30,8 +30,8 @@ To run the bot locally, follow these steps:
 
 3. Configure the bot by setting up a `.env` file:
    ```env
-   TOKEN=your-bot-token
-   DATABASE_URL=your-database-url
+   TOKEN=
+   DATABASE_URL=
    ```
 
 4. Start the bot:
